@@ -7,8 +7,6 @@
 <img src="https://img.shields.io/badge/dowrave@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
 
 
------------------------------------
-
 ### Skills
 
 #### Learned and Used in Projects:
@@ -31,7 +29,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dowrave&show_icons=true&theme=vue)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dowrave)
 
-
+-------------------
+--------------------
 #### 현재 관리되지 않는 그 외 공부 기록들
 <a href="https://dowrave.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Tistory&logoColor=white"/></a>
   - 공부 정리용 메모장으로 사용했으나 <img src="https://img.shields.io/badge/Obsidian-483699?style=flat&logo=obsidian&logoColor=white"/>을 사용하게 되면서 관리하지 않고 있습니다.  
