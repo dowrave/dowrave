@@ -1,8 +1,5 @@
 # 이현태 Hyeon Tae, Lee
 
-## Introduction
-- 인하대학교 신소재공학과를 졸업했습니다. 현재는 컴퓨터와 데이터를 공부하고 있는 취업준비생 이현태입니다. 
-
 ## About Me
 :mortar_board: Inha Univ. Material Science Engineering  
 :mailbox: <img src="https://img.shields.io/badge/dowrave@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>  
