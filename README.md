@@ -1,15 +1,16 @@
-### 소개
+## 소개
 - 데이터 분석과 머신러닝에 관심 있는 취업준비생입니다.
 - 신소재공학과에서 학사 과정을 마쳤습니다. ML, 프로그래밍을 비롯한 컴퓨터 분야는 [K-MOOC 제공 AI 개발자 공대생 커리큘럼](http://www.kmooc.kr/roadmap_view/2/)으로 시작했습니다. 이후에도 각종 책, 동영상 강의, 캐글 등으로 공부하고 있습니다. 
 
 
-### Contact
+## Contact
 <img src="https://img.shields.io/badge/dowrave@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
 
 
-### Skills
+## Skills
 
-#### Learned and Used in Projects:
+### Learned and Used in Projects:
+#### Language :
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/>
