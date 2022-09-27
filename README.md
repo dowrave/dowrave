@@ -1,7 +1,7 @@
 # 이현태 Hyeon Tae, Lee
 
 ## About Me
-:mortar_board: Inha Univ. Material Science Engineering  
+:mortar_board: Inha Univ. Material Science Engineering (신소재공학과)  
 :mailbox: <img src="https://img.shields.io/badge/dowrave@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>  
 :abc: TOEIC `945` <sub><sup>210109</sup></sub> / TOEIC SPEAKING `LEVEL7` <sub><sup>210714</sup></sub>  
 :japan: JLPT `N3` <sub><sup>180121</sup></sub>  
@@ -31,4 +31,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dowrave&show_icons=true&theme=vue)  
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dowrave)](https://solved.ac/dowrave)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dowrave)](https://solved.ac/dowrave)  
+<a href="https://dowrave.tistory.com/"><img src="https://img.shields.io/badge/공부기록블로그-000000?style=flat&logo=Tistory&logoColor=white"/></a> : <img src="https://img.shields.io/badge/Obsidian-483699?style=flat&logo=Obsidian&logoColor=white"/>으로 대체
