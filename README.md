@@ -23,7 +23,7 @@
 </details>
 
 ## Projects
-1. [한글 단일 글자 필기체 인식](https://github.com/dowrave/Project01_HandWriting)
+1. [한글 단일 글자 손글씨 필기체 인식](https://github.com/dowrave/Project01_HandWriting)
 2. [한경 컨센서스 상향 보고서 수집 및 시각화](https://github.com/dowrave/Project02_Hankyung)
 
 
