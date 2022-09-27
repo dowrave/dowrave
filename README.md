@@ -1,11 +1,14 @@
 # 이현태 Hyeon Tae, Lee
-:mortar_board: Inha Univ. Material Science Engineering  
-:abc: TOEIC `945` <sub><sup>210109</sup></sub> / TOEIC SPEAKING `LEVEL7` <sub><sup>210714</sup></sub>  
-:japan: JLPT `N3` <sub><sup>180121</sup></sub>  
-:mailbox: <img src="https://img.shields.io/badge/dowrave@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>  
 
 ## Introduction
 - 인하대학교 신소재공학과를 졸업했습니다. 현재는 컴퓨터와 데이터를 공부하고 있는 취업준비생 이현태입니다. 
+
+## About Me
+:mortar_board: Inha Univ. Material Science Engineering  
+:mailbox: <img src="https://img.shields.io/badge/dowrave@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>  
+### Language
+:abc: TOEIC `945` <sub><sup>210109</sup></sub> / TOEIC SPEAKING `LEVEL7` <sub><sup>210714</sup></sub>  
+:japan: JLPT `N3` <sub><sup>180121</sup></sub>  
 
 ## Tech Stacks
 
