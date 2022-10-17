@@ -4,7 +4,7 @@
 :mortar_board: Inha Univ. Material Science Engineering (신소재공학과)  
 :mailbox: <img src="https://img.shields.io/badge/dowrave@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>  
 <details>
-  <summary>Languages Certificate</summary>  
+  <summary>Language Certificates</summary>  
   
  :abc: TOEIC `945` <sub><sup>210109</sup></sub> / TOEIC SPEAKING `LEVEL7` <sub><sup>210714</sup></sub>  
  
