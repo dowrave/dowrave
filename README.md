@@ -39,3 +39,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dowrave)](https://solved.ac/dowrave)  
 <a href="https://dowrave.tistory.com/"><img src="https://img.shields.io/badge/공부기록블로그-000000?style=flat&logo=Tistory&logoColor=white"/></a> : <img src="https://img.shields.io/badge/Obsidian-483699?style=flat&logo=Obsidian&logoColor=white"/>으로 대체
+
+## Now
+- [캐글 - Big Data Derby 2022](https://www.kaggle.com/competitions/big-data-derby-2022/overview) 참여 중
+- 
