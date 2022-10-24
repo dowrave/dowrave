@@ -42,4 +42,4 @@
 
 ## Now
 - [캐글 - Big Data Derby 2022](https://www.kaggle.com/competitions/big-data-derby-2022/overview) 참여 중
-- 
+- 구직 중
