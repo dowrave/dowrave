@@ -41,5 +41,7 @@
 <a href="https://dowrave.tistory.com/"><img src="https://img.shields.io/badge/공부기록블로그-000000?style=flat&logo=Tistory&logoColor=white"/></a> : <img src="https://img.shields.io/badge/Obsidian-483699?style=flat&logo=Obsidian&logoColor=white"/>으로 대체
 
 ## Now
-- [캐글 - Big Data Derby 2022](https://www.kaggle.com/competitions/big-data-derby-2022/overview) 참여 중
-- 구직 중
+### `2022-10`
+1. [캐글 - Big Data Derby 2022](https://www.kaggle.com/competitions/big-data-derby-2022/overview) 참여 중  
+  - 진행과정은 캐글 대회 규칙 상 데이터가 외부로 샐 가능성이 있다고 하여 깃허브에 정리하지 못할 것 같다.
+2. 구직 중
