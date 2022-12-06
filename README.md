@@ -32,7 +32,7 @@
 1. [한글 단일 글자 손글씨 필기체 인식](https://github.com/dowrave/Project01_HandWriting)
 2. [한경 컨센서스 상향 보고서 수집 및 시각화](https://github.com/dowrave/Project02_Hankyung)
 3. [Kaggle Big Data Derby 2022](https://www.kaggle.com/code/hyeontaelee/2022-derby-eda-last)
-4. [Dacon Basic 축구 선수 유망 여부 결정 대회](https://github.com/dowrave/Data_Analysis_Projects/blob/main/Dacon_SoccerPlayerProspect/Dacon_total.ipynb) `Public 5위, Private 26위(ㅠㅠ)`
+4. [Dacon Basic 축구 선수 유망 여부 결정 대회](https://github.com/dowrave/Data_Analysis_Projects/blob/main/Dacon_SoccerPlayerProspect/Dacon_total.ipynb) `Public 5위, Private 26위`
 
 ## Else  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dowrave&show_icons=true&theme=vue)  
