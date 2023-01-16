@@ -32,7 +32,6 @@
 4. [Dacon Basic 축구 선수 유망 여부 결정 대회](https://github.com/dowrave/Data_Analysis_Projects/blob/main/Dacon_SoccerPlayerProspect/Dacon_total.ipynb) `Public 5위, Private 26위`
 
 ## Else  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dowrave&show_icons=true&theme=vue)  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dowrave)](https://solved.ac/dowrave)  
 <a href="https://dowrave.tistory.com/"><img src="https://img.shields.io/badge/공부기록블로그-000000?style=flat&logo=Tistory&logoColor=white"/></a> : <img src="https://img.shields.io/badge/Obsidian-483699?style=flat&logo=Obsidian&logoColor=white"/>으로 대체
