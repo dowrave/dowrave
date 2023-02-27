@@ -25,8 +25,9 @@
   
 </details>
 
-## Now
-- [SQL](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit), [Python](https://www.acmicpc.net/step) 코딩테스트를 풀며 취업 준비 중입니다.
+## Now 
+
+- `23.02~` [SQL](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit), [Python](https://www.acmicpc.net/step) 코딩테스트를 풀며 취업 준비 중입니다.
 
 ## Projects
 1. [한글 단일 글자 손글씨 필기체 인식](https://github.com/dowrave/Project01_HandWriting)
