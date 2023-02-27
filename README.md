@@ -1,6 +1,9 @@
 # 이현태 Hyeon Tae, Lee
 
-## About Me
+## About Me  
+- 게임과 데이터, 인공지능에 관심이 있습니다. 
+- [KMOOC의 인공지능 과정 로드맵](http://www.kmooc.kr/roadmap_view/2/)으로 이론 공부를 했고 개인 프로젝트나 경진대회 등에 참여하면서 데이터에 관한 경험을 쌓았습니다.   
+  
 :mortar_board: Inha Univ. Material Science Engineering (신소재공학과)  
 :mailbox: <img src="https://img.shields.io/badge/dowrave@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>  
 <details>
@@ -27,13 +30,15 @@
 
 ## Now 
 
-- `23.02~` [SQL](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit), [Python](https://www.acmicpc.net/step) 코딩테스트를 풀며 취업 준비 중입니다.
+- `23.02~` [SQL](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit), [Python](https://www.acmicpc.net/step) 코테 공부 & 취업 준비 중입니다.
+- :japan: JLPT N1 준비 중
+- :art: 취미
 
 ## Projects
 1. [한글 단일 글자 손글씨 필기체 인식](https://github.com/dowrave/Project01_HandWriting)
 2. [한경 컨센서스 상향 보고서 수집 및 시각화](https://github.com/dowrave/Project02_Hankyung)
 3. [Kaggle Big Data Derby 2022](https://www.kaggle.com/code/hyeontaelee/2022-derby-eda-last)
-4. [Dacon Basic 축구 선수 유망 여부 결정 대회](https://github.com/dowrave/Data_Analysis_Projects/blob/main/Dacon_SoccerPlayerProspect/Dacon_total.ipynb) `Public 5위, Private 26위`
+4. [Dacon Basic 축구 선수 유망 여부 결정 대회](https://github.com/dowrave/Data_Analysis_Projects/blob/main/3.%20Dacon_SoccerPlayerProspect/Dacon_total_final.ipynb)`Public 5위, Private 26위`
 
 ## Else  
 [![Solved.ac
