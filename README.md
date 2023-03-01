@@ -32,7 +32,7 @@
 
 - `23.02~` [SQL](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit), [Python](https://www.acmicpc.net/step) 코테 공부 & 취업 준비 중입니다.
 - :japan: JLPT N1 준비 중
-- :art: 취미
+- :art: (취미) 그림 공부 중 
 
 ## Projects
 1. [한글 단일 글자 손글씨 필기체 인식](https://github.com/dowrave/Project01_HandWriting)
