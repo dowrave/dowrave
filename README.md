@@ -3,7 +3,7 @@
 ## About Me  
 - 게임과 데이터, 인공지능에 관심이 있습니다. 
 - [KMOOC의 인공지능 과정 로드맵](http://www.kmooc.kr/roadmap_view/2/)으로 이론 공부를 했고 개인 프로젝트나 경진대회 등에 참여하면서 데이터에 관한 경험을 쌓았습니다.  
-- [프로그래머스 프로필 & 프로젝트 설명](https://github.com/dowrave/dowrave/edit/main/README.md)  
+- [프로그래머스 프로필 & 프로젝트 설명](https://career.programmers.co.kr/pr/dowrave_9247)  
   
   
 :mortar_board: Inha Univ. Material Science Engineering (신소재공학과)  
