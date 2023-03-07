@@ -2,7 +2,9 @@
 
 ## About Me  
 - 게임과 데이터, 인공지능에 관심이 있습니다. 
-- [KMOOC의 인공지능 과정 로드맵](http://www.kmooc.kr/roadmap_view/2/)으로 이론 공부를 했고 개인 프로젝트나 경진대회 등에 참여하면서 데이터에 관한 경험을 쌓았습니다.   
+- [KMOOC의 인공지능 과정 로드맵](http://www.kmooc.kr/roadmap_view/2/)으로 이론 공부를 했고 개인 프로젝트나 경진대회 등에 참여하면서 데이터에 관한 경험을 쌓았습니다.  
+- [프로그래머스 프로필 & 프로젝트 설명](https://github.com/dowrave/dowrave/edit/main/README.md)  
+  
   
 :mortar_board: Inha Univ. Material Science Engineering (신소재공학과)  
 :mailbox: <img src="https://img.shields.io/badge/dowrave@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>  
@@ -43,4 +45,4 @@
 ## Else  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dowrave)](https://solved.ac/dowrave)  
-<a href="https://dowrave.tistory.com/"><img src="https://img.shields.io/badge/공부기록블로그-000000?style=flat&logo=Tistory&logoColor=white"/></a> : <img src="https://img.shields.io/badge/Obsidian-483699?style=flat&logo=Obsidian&logoColor=white"/>으로 대체
+- [백준 코테 풀이 내역](https://www.acmicpc.net/user/dowrave)
