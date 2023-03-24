@@ -1,7 +1,7 @@
 # 이현태 Hyeon Tae, Lee
 
 ## About Me  
-- 게임과 데이터, 인공지능에 관심이 있습니다. 
+- 데이터, 인공지능에 관심이 있습니다.
 - [KMOOC의 인공지능 과정 로드맵](http://www.kmooc.kr/roadmap_view/2/)으로 이론 공부를 했고 개인 프로젝트나 경진대회 등에 참여하면서 데이터에 관한 경험을 쌓았습니다.  
 - [프로그래머스 프로필 & 프로젝트 설명](https://career.programmers.co.kr/pr/dowrave_9247)  
   
@@ -28,12 +28,6 @@
   <summary>Learned but Not Used</summary>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> 
 </details>
-
-## Now 
-
-- `23.02~` [SQL](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit), [Python](https://www.acmicpc.net/step) 코테 공부 & 취업 준비 중입니다.
-- :japan: JLPT N1 준비 중
-- :art: (취미) 그림 공부 중 
 
 ## Projects
 1. [한글 단일 글자 손글씨 필기체 인식](https://github.com/dowrave/Project01_HandWriting)
