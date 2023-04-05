@@ -6,7 +6,7 @@
 - [프로그래머스 프로필 & 프로젝트 설명](https://career.programmers.co.kr/pr/dowrave_9247)  
   
   
-:mortar_board: Inha Univ. Material Science Engineering (신소재공학과)  
+:mortar_board: 인하대학교 신소재공학과 (Inha Univ. Material Science Engineering)  
 :mailbox: <img src="https://img.shields.io/badge/dowrave@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>  
 <details>
   <summary>Language Certificates</summary>  
