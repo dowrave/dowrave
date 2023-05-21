@@ -1,11 +1,7 @@
 # 이현태 Hyeon Tae, Lee
 
 ## About Me  
-- 데이터, 인공지능에 관심이 있습니다.
-- [KMOOC의 인공지능 과정 로드맵](http://www.kmooc.kr/roadmap_view/2/)으로 이론 공부를 했고 개인 프로젝트나 경진대회 등에 참여하면서 데이터에 관한 경험을 쌓았습니다.  
-- [프로그래머스 프로필 & 프로젝트 설명](https://career.programmers.co.kr/pr/dowrave_9247)  
-  
-  
+
 :mortar_board: 인하대학교 신소재공학과 (Inha Univ. Material Science Engineering)  
 :mailbox: <img src="https://img.shields.io/badge/dowrave@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>  
 <details>
