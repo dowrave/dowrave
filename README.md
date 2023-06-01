@@ -2,7 +2,6 @@
 
 ## About Me  
 
-:mortar_board: 인하대학교 신소재공학과 (Inha Univ. Material Science Engineering)  
 :mailbox: <img src="https://img.shields.io/badge/dowrave@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>  
 <details>
   <summary>Language Certificates</summary>  
