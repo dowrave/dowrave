@@ -33,4 +33,3 @@
 ## Else  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dowrave)](https://solved.ac/dowrave)  
-- [백준 코테 풀이 내역](https://www.acmicpc.net/user/dowrave)
