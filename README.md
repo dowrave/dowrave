@@ -6,9 +6,9 @@
 <details>
   <summary>Language Certificates</summary>  
   
- :abc: TOEIC SPEAKING `LEVEL7` <sub><sup>210714</sup></sub>  /~~TOEIC `945`~~ <sub><sup>expired</sup></sub>
+ :abc: ~~TOEIC SPEAKING `LEVEL7`~~ <sub><sup>210714</sup></sub> /~~TOEIC `945`~~ <sub><sup>210109</sup></sub>
  
-:japan: JLPT `N3` <sub><sup>180121</sup></sub>  
+:japan: JLPT `N1` <sub><sup>230807</sup></sub> /JLPT `N3` <sub><sup>180121</sup></sub>  
  </details>
 
 
